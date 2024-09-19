@@ -1,4 +1,4 @@
-<h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Bem-vindo, sou o Rafael</a> <a  target="_blank"></a></h1>
+<h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Bem-vindo!</a> <a  target="_blank"></a></h1>
 
 
 ##### Profissional de TI apaixonado por tecnologia, com um olhar crítico e voltado para soluções eficientes, combinando experiências em história, museologia e sistemas de informação. Com uma sólida formação acadêmica e profissional, tenho experiência em análise de dados, modelagem de banco de dados, Python e SQL. Sou motivado pela busca de inovação e otimização de processos, sempre apoiado em dados e técnicas bem estruturadas, sem deixar de lado a criatividade e a adaptação ao contexto.
