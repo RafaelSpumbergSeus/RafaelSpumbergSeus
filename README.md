@@ -9,3 +9,11 @@
   <a href="https://github.com/RafaelSpumbergSeus">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RafaelSpumbergSeus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&layout=compact&langs_count=7&theme=radical"/>
+
+- Aprendendo
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
