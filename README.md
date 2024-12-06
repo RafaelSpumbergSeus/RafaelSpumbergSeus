@@ -1,25 +1,37 @@
 <h1 align=center><a target="_blank" href="https://demo.gethugothemes.com/liva" rel="nofollow">Bem-vindo!</a> <a  target="_blank"></a></h1>
 
 
-##### Profissional de TI apaixonado por tecnologia, com um olhar crítico e voltado para soluções eficientes, combinando experiências em história, museologia e sistemas de informação. Com uma sólida formação acadêmica e profissional, tenho experiência em análise de dados, modelagem de banco de dados, Python e SQL. Sou motivado pela busca de inovação e otimização de processos, sempre apoiado em dados e técnicas bem estruturadas, sem deixar de lado a criatividade e a adaptação ao contexto.
+#### Profissional de TI apaixonado por tecnologia, com um olhar crítico e voltado para soluções eficientes, combinando experiências em história, museologia e sistemas de informação. Com uma sólida formação acadêmica e profissional, tenho experiência em análise de dados, modelagem de banco de dados, Python e SQL. Sou motivado pela busca de inovação e otimização de processos, sempre apoiado em dados e técnicas bem estruturadas, sem deixar de lado a criatividade e a adaptação ao contexto.
 
-##### Algumas áreas com as quais tenho experiência: Análise de Dados | Modelagem de Banco de Dados | Power BI | SQL | Python
+#### Algumas áreas com as quais tenho experiência: Análise de Dados | Modelagem de Banco de Dados | Power BI | SQL | Python
 
-<div align="center">
-  <a href="https://github.com/RafaelSpumbergSeus">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RafaelSpumbergSeus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&layout=compact&langs_count=7&theme=radical"/>
-
-#####
+#### 🧑‍🎓 Aprendendo:
 </div>
-
-<div align="center">    
-
-Aprendendo:
-  
+<div align="left">    
+ 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
 </div>
+
+#### 📊Estatísticas
+<p>
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="150"
+  style=padding-right:10px;"
+  src="https://github-readme-stats.vercel.app/api?username=RafaelSpumbergSeus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />  
+</p>
+
+
+
