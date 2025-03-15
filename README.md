@@ -7,7 +7,7 @@
 
 #### Algumas áreas com as quais tenho experiência: Análise de Dados | Modelagem de Banco de Dados | Power BI | SQL | Python
 
-#### 🧑‍🎓 Aprendendo:
+#### 🧑‍🎓 Aprendendo
 </div>
 <div align="left">    
   <img src="https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-#### 📊Estatísticas
+#### 📊 Estatísticas
 <p>
   <!-- GitHub Stats -->
   <img align="left" alt="GitHub Stats" height="150" style="padding-right:10px;" 
