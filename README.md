@@ -25,7 +25,7 @@
   
   <!-- Top Languages -->
   <img align="left" alt="Top Langs" height="150" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_repo=repo1,repo2&hide=html,css">
 </p>
 
 
