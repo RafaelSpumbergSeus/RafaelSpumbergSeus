@@ -39,9 +39,23 @@ Olá! Sou um profissional de TI apaixonado por tecnologia e análise de dados, c
   
 ## 🌱 Atualmente Estudando
 
-- Machine Learning aplicado a negócios
-- Processamento de dados em larga escala com PySpark
-- Modelos preditivos com Scikit-Learn
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <div>
+    <img src="https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML">
+    <p style="font-size: 0.9em;">Aplicação de ML em cenários reais de negócios</p>
+  </div>
+
+  <div>
+    <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+     <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+    <p style="font-size: 0.9em;">Processamento distribuído de grandes volumes</p>
+  </div>
+
+  <div>
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+    <p style="font-size: 0.9em;">Desenvolvimento de modelos preditivos</p>
+  </div>
+</div>
 
 ## 📫 Como Me Encontrar
 
