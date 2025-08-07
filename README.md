@@ -58,12 +58,7 @@ Olá! Sou um profissional de TI apaixonado por tecnologia e análise de dados, c
 
 ## 📫 Como Me Encontrar
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/rafael-spumberg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rafaelspumberg31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelspumberg31@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-spumberg/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://rafaelspumbergseus.github.io/Portifolio/)  
 
