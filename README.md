@@ -24,9 +24,10 @@ Olá! Sou um profissional de TI apaixonado por tecnologia e análise de dados, c
 ## 📈 Estatísticas do GitHub
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelSpumbergSeus&show_icons=true&theme=dracula&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=RafaelSpumbergSeus&theme=dracula&locale=pt_BR"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelSpumbergSeus&theme=dracula"/>
+
 </div>
 <!--
 ## 🚀 Projetos Destacados
