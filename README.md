@@ -19,14 +19,13 @@ Olá! Sou um profissional de TI apaixonado por tecnologia e análise de dados, c
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </div>
 
 ## 📈 Estatísticas do GitHub
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelSpumbergSeus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&layout=compact&langs_count=7&theme=dracula&custom_title=Linguagens+Mais+Usadas&exclude_repo=repo1,repo2&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelSpumbergSeus&show_icons=true&theme=dracula&locale=pt-br&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSpumbergSeus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!--
 ## 🚀 Projetos Destacados
